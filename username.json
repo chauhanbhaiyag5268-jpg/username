@@ -1,0 +1,28 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "background_color": "#FF0000",
+    "message": "The application is currently undergoing scheduled maintenance. We'll be back online soon."
+  },
+  "credentials": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "build_id": "1.0",  
+      "expire_date": "2026-03-01",
+      "authorized_device_ids": [     
+        "88e99b0c741499cc",         
+        "4b85f2a10d9e8c44",   
+        "3ba4a93f018dc799",   
+        "UNKNOWN"                    
+      ]
+    },
+    {
+      "username": "client_key_1",
+      "password": "client_pass",
+      "build_id": "f5a6b7c8d9e0f1g2", 
+      "expire_date": "2025-11-20",
+      "authorized_device_ids": ["c4f3d2b1a0e9f8g7"] 
+    }
+  ]
+}
