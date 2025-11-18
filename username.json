@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "background_color": "#FF0000",
     "message": "The application is currently undergoing scheduled maintenance. We'll be back online soon."
   },
